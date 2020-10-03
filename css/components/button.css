@@ -1,0 +1,61 @@
+/* Button.css */
+
+.btn-medium{
+    color: #808080;
+    border: 1px solid #808080;
+    border-radius: 50px;
+    padding: 10px 15px;
+    font-weight: lighter;
+    opacity: 0.6;
+
+}
+
+.btn-medium:hover {
+    opacity: 1;
+    text-decoration: none;
+    color: #808080
+}
+
+.btn-twitter{
+    color: white;
+    border-radius: 7px;
+    font-weight: bold;
+    font-size: smaller;
+    padding: 10px 15px;
+    background-color: #c61504;
+
+}
+
+.btn-facebook{
+    color: white;
+    background-color: #4665b4;
+    border-radius: 3px;
+    font-weight: bold;
+    padding: 7px 7px;
+    font-size: large;
+}
+
+.btn-facebook-small{
+    color: white;
+    background-color: #4665b4;
+    background-color: grey;
+    border-radius: 3px;
+    font-weight: bold;
+    padding: 3px 3px;
+    font-size: x-small;
+}
+
+.btn-facebook:hover{
+    color: grey;
+    background-color: #4665b4;
+    border-radius: 3px;
+    font-weight: bold;
+    font-size: medium;
+}
+
+.btn-twitter:hover {
+    text-decoration: none;
+    color: white;
+    background-color: #FD2414;
+
+}

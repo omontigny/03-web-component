@@ -1,0 +1,126 @@
+/* Epicurious Card */
+.card-epicurious{
+    border: solid;
+    border-color: white;
+    height: 350px;
+    background-size: cover;
+    color: white;
+    position: relative;
+}
+
+.card-epicurious:hover{
+    border: solid;
+    border-color: red;
+    background-color: grey;
+    height: 350px;
+    background-size: cover;
+    color: white;
+    position: relative;
+
+}
+
+.card-epicurious-head{
+    /*border: solid;*/
+    /*border-color: white;*/
+    height: 40%;
+}
+
+.card-epicurious-head:hover{
+    /*border: solid;*/
+    /*border-color: white;*/
+    background: linear-gradient(135deg,
+    rgba(0,0,0,0.8) 0%,
+    rgba(0,0,0,0.3) 50%),
+    url("../../images/basket.jpg");
+    height: 40%;
+}
+
+.card-epicurious-description{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    /*border: solid;*/
+    /*border-color: white;*/
+    background-color: #f5f5f5;
+    height: 60%;
+}
+
+.card-epicurious-description h3{
+    color: red;
+    font-family: "Montserrat", "sans-serif";
+    font-size: medium;
+}
+
+.card-epicurious-title a{
+    /*border: solid;
+    border-color: red;*/
+    color: dimgray;
+    font-family: 'Source Serif Pro', serif;
+    font-size: x-large;
+}
+
+
+.card-epicurious-sumup{
+    /*border: solid;*/
+    /*border-color: white;*/
+    color: gray;
+    font-size: small;
+}
+
+.card-epicurious-notes{
+    /*border: solid;*/
+    /*border-color: white;*/
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: black;
+    margin-bottom: 5px;
+}
+
+.card-epicurious-note  {
+    flex: 0 0 auto;
+}
+
+.red{
+    color: red;
+}
+
+#basket{
+    background: url("../../images/basket.jpg");
+    background-size: cover;
+}
+
+#cartable {
+    background: url("../../images/cartable.jpg");
+    background-size: cover;
+}
+
+#licorne{
+    background: url("../../images/licorne.jpg");
+    background-size: cover;
+}
+
+#bateau{
+    background: url("../../images/bateau.jpg");
+    background-size: cover;
+}
+
+#mask{
+    background: url("../../images/mask.jpg");
+    background-size: cover;
+}
+
+#pirate{
+    background: url("../../images/pirates.jpg");
+    background-size: cover;
+}
+
+#reinedesneiges{
+    background: url("../../images/reinedesneignes.jpg");
+    background-size: cover;
+}
+
+#switch{
+    background: url("../../images/switch.jpg");
+    background-size: cover;
+}
