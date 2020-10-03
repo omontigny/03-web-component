@@ -4,7 +4,8 @@ Now that you know the basics of HTML &amp; CSS, let’s go a bit deeper into web
   * Get used to thinking in terms of web components; UI elements you can combine to build your web pages.
   * Learn how to code your own CSS library of them! Having a cool library of components is the most powerful secret of frontend developers.
 
-You can go through the slides here. If you’d rather watch this video en français 🇫🇷 you can go directly on Youtube.
+You can go through the slides [here](https://fr.slideshare.net/bpapillard/le-wagon-ui-components-design) 
+If you’d rather watch this video en [français](https://www.youtube.com/watch?v=ewxMpl09OwE) 🇫🇷 you can go directly on Youtube.
 
 ## Main takeaways
 #### What’s a component?
