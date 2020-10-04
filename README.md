@@ -17,6 +17,11 @@ If you’d rather watch this video en [français](https://www.youtube.com/watch?
   * Build an Epicurious’ card
   * Use flexboxes to design your own breaking news feed
   
+ ## Results
+ ![Exercice 1 & 2](images/Epicurious_cards.jpg)
+ 
+ ![Exercice 3](images/BreakingNews_feed.png)
+  
  ## Resources
    * Bootstrap web components
    * UX components on codepen.io
