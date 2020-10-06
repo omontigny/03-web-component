@@ -2,16 +2,19 @@
 .card-epicurious{
     border: solid;
     border-color: white;
+    box-shadow: 4px 4px 4px darkgrey;
     height: 450px;
     background-size: cover;
     color: white;
     position: relative;
+    padding: 1px 1px;
+    margin: 5px 5px;
 }
 
 .card-epicurious:hover{
     border: solid;
     border-color: red;
-    background-color: grey;
+    border-width: thin;
     height: 450px;
     background-size: cover;
     color: white;
