@@ -37,8 +37,8 @@
 
 .btn-facebook-small{
     color: white;
-    background-color: #4665b4;
-    background-color: grey;
+    /*background-color: #4665b4;*/
+    background-color: red;
     border-radius: 3px;
     font-weight: bold;
     padding: 3px 3px;
@@ -46,8 +46,9 @@
 }
 
 .btn-facebook:hover{
-    color: grey;
-    background-color: #4665b4;
+    color: white;
+    /*background-color: #4665b4;*/
+    background-color: red;
     border-radius: 3px;
     font-weight: bold;
     font-size: medium;
