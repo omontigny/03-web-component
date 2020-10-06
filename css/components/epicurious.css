@@ -1,40 +1,43 @@
 /* Epicurious Card */
+
+
 .card-epicurious{
-    border: solid;
-    border-color: white;
     box-shadow: 4px 4px 4px darkgrey;
     height: 450px;
     background-size: cover;
     color: white;
     position: relative;
-    padding: 1px 1px;
-    margin: 5px 5px;
+    margin-bottom: 15px;
 }
 
-.card-epicurious:hover{
+.card-epicurious h1 {
+    background: linear-gradient(135deg,
+    rgba(128, 128, 128, 0.8) 0%,
+    rgba(128,128,128,0.5) 50%);
+    margin: 0;
+    text-align: center;
+    width: 100%;
+    visibility: hidden;
+    position: relative;
+    padding-top: 50%;
+}
+
+.card-epicurious:hover h1{
     border: solid;
     border-color: red;
-    border-width: thin;
+    border-width: 4px;
     height: 450px;
     background-size: cover;
-    color: white;
-    position: relative;
-
+    color: grey;
+    font-family: "Roboto Light";
+    font-size: x-large;
+    visibility: visible;
+    padding-top: 50%;
 }
 
 .card-epicurious-head{
     /*border: solid;*/
     /*border-color: white;*/
-    height: 45%;
-}
-
-.card-epicurious-head:hover{
-    /*border: solid;*/
-    /*border-color: white;*/
-    background: linear-gradient(135deg,
-    rgba(0,0,0,0.8) 0%,
-    rgba(0,0,0,0.3) 50%),
-    url("../../images/basket.jpg");
     height: 45%;
 }
 
