@@ -1,5 +1,7 @@
 /* Epicurious Card */
-
+green {
+    color: green;
+}
 
 .card-epicurious{
     box-shadow: 4px 4px 4px darkgrey;
